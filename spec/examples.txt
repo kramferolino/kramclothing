@@ -1,0 +1,4 @@
+example_id                          | status | run_time        |
+----------------------------------- | ------ | --------------- |
+./spec/requests/home_spec.rb[1:1]   | failed | 0.21754 seconds |
+./spec/requests/home_spec.rb[1:2:1] | failed | 0.02141 seconds |
